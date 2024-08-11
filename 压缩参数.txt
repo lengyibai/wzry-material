@@ -1,0 +1,17 @@
+4k海报：shaosiyuan_hb_0_b.jpg
+3840*1764：压缩率95%，0.7MB-2.25MB
+
+2K海报：shaosiyuan_hb_0.jpg
+2351*1080：基于4K压缩率95%，0.5MB-1.5MB
+
+海报小图：shaosiyuan_hb_0_s.jpg
+640*294：基于4K压缩率90%，50KB-90KB
+
+英雄封面：shaosiyuan_c.jpg
+266*400：压缩率90%，30KB-55KB
+
+头像：shaosiyuan_tx_0.jpg
+100*100，压缩率95%
+
+技能图标：shaosiyuan_jn_0.png
+90*90，压缩大小后进行二次质量压缩
